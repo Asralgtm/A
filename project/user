@@ -1,0 +1,315 @@
+  926  mv noted.txt /home/skacas/desktop/projects
+  927  mv noted.txt /home/skacas/Desktop/projects
+  928  cd Desktop
+  929  cd projects
+  930  cd linux-tasks
+  931  cd task1
+  932  cd noted.txt
+  933  cd Desktop
+  934  cd projects
+  935  cd linux-tasks
+  936  cd task1
+  937  mv noted.txt /home/skacas/Desktop/projects
+  938  mkdir dir2
+  939  cd Desktop
+  940  mkdir dir2
+  941  cd dir2
+  942  touch a.txt b.txt c.txt
+  943  nano a.txt
+  944  nano b.txt
+  945  nano c.txt
+  946  cd Desktop
+  947  mkdir testdir1 subdir1
+  948  cd subdir1
+  949  touch lodfile.txt
+  950  nano cd subdir
+  951  cd subdir
+  952  cd Desktop
+  953  cd subdir1
+  954  touch logfile.txt
+  955  nano logfile.txt
+  956  cp logfile.txt home
+  957  ls -r
+  958  ls -all
+  959  history
+  960  mkdir assignments
+  961  cd assignments
+  962  mkdir completed pending
+  963  touch work.txt
+  964  mv work.txt completed
+  965  cd assignments
+  966  cd completed
+  967  mv work.txt assignments
+  968  touch work.txt
+  969  mv work.txt assignments
+  970  mv work.txt completed
+  971  cd assignments
+  972  mv work.txt completed
+  973  cp work.txt completed
+  974  cd ..
+  975  cd pending
+  976  cd assignments
+  977  cd pending
+  978  cp work.txt pending
+  979  cd assignments
+  980  cd 
+  981  cd Desktop
+  982  mkdir Daily weekly monthly
+  983  cd Daily
+  984  nano Daily
+  985  cd ..
+  986  mkdir Reports
+  987  mv Daily Reports
+  988  mv weekly Reports
+  989  mv monthly Reports
+  990  cd Reports
+  991  cd Daily
+  992  mv summary.txt weekly
+  993  cd assignments
+  994  cd Reports
+  995  cd Desktop
+  996  cd Reports
+  997  cd Daily
+  998  nano Daily
+  999  nano summary.txt
+ 1000  mv summary.txt weekly
+ 1001  cd Desktop
+ 1002  cd Reports
+ 1003  cd Daily
+ 1004  mv weekly summary.txt
+ 1005  mv summary.txt /home/skacas/Desktop/Reports/weekly
+ 1006  cd 
+ 1007  mkdir data
+ 1008  cd data
+ 1009  mkdir Test1 Test2
+ 1010  cd Test2
+ 1011  touch input.txt output.txt
+ 1012  nano input.txt
+ 1013  nano output.txt
+ 1014  rm -r Test2
+ 1015  cd ..
+ 1016  rm -r Test2
+ 1017  cd 
+ 1018  mkdir projects
+ 1019  cd projects
+ 1020  mkdir scripts
+ 1021  cd scripts
+ 1022  touch run.sh
+ 1023  nano run.sh
+ 1024  cat run.sh
+ 1025  mkdir achive
+ 1026  cp-r /bin achive
+ 1027  cp -r /bin achive
+ 1028  cd 
+ 1029  cd projects
+ 1030  mkdir 2024
+ 1031  mkdir notes
+ 1032  cd notes
+ 1033  touch note1.txt note2.txt note3.txt note4.txt note5.txt
+ 1034  nano note5.txt
+ 1035  nano note1.txt
+ 1036  nano note1.txt
+ 1037  nano note2.txt
+ 1038  nano note5.txt
+ 1039  nano note3.txt
+ 1040  nano note4.txt
+ 1041  mkdir log.txt
+ 1042  nano log.txt
+ 1043  touch log.txt
+ 1044  nano log.txt
+ 1045  grep -r "Error" log.txt
+ 1046  grep -r "Error" log.txt > error log.txt
+ 1047  touch students.txt
+ 1048  nano students.txt
+ 1049  grep -n "Grade A" student.txt
+ 1050  nano student.txt
+ 1051  cd students.txt
+ 1052  touch students.txt
+ 1053  nano students.txt
+ 1054  grep -n "Grade A" student.txt
+ 1055  cd Desktop
+ 1056  grep -n "Grade A" student.txt
+ 1057  cd Desktop
+ 1058  grep -n "Grade A" students.txt
+ 1059  cd 
+ 1060  touch syslog_files.txt
+ 1061  grep -r "syslog" /var/log
+ 1062  grep -r "syslog" /var/log > syslog_files.txt
+ 1063  ls /var/log log.txt
+ 1064  grep -n "warning" log.txt
+ 1065  cd Desktop
+ 1066  grep -n "warning" log.txt
+ 1067  ls -all
+ 1068  touch contents.txt
+ 1069  cp textfiles contents.txt
+ 1070  cp log.txt contents.txt
+ 1071  cp students.txt contents.txt
+ 1072  cd Desktop
+ 1073  cp students.txt contents.txt
+ 1074  cd Desktop
+ 1075  cp students.txt contents.txt
+ 1076  vi config.txt
+ 1077  touch config.txt
+ 1078  nano config.txt
+ 1079  clear
+ 1080  vi
+ 1081  vi file.txt
+ 1082  grep -n "Replace" file.txt
+ 1083  mkdir team_docs
+ 1084  cd team_docs
+ 1085  touch notes.txt
+ 1086  clear
+ 1087  touch script.sh
+ 1088  nano script.sh
+ 1089  cd Madhavan
+ 1090  cd cloudcomputing
+ 1091  mkdir microservices_architecture
+ 1092  rm microservices_architecture
+ 1093  rm -r  microservices_architecture
+ 1094  cd Desktop
+ 1095  mkdir microservices_architecture
+ 1096  cd  microservices_architecture
+ 1097  mkdir a_sevcice b_service c_service d_service e_service
+ 1098  mkdir f_sevcice g_service h_service i_service j_service
+ 1099  mkdir k_service l_service
+ 1100  rm -r k_service l_service
+ 1101  rm -r f_sevcice g_service h_service i_service j_service
+ 1102  rm -r a_sevcice b_service c_service d_service e_service
+ 1103  mkdir user_service order_service inventory_service data_service log_service sidecar_service list_service APT_service database_service server_service datum_service APTgateway_service 
+ 1104  cd APTgateway_service
+ 1105  touch docker_config.txt
+ 1106  cd ..
+ 1107  cd APT_service 
+ 1108  touch docker1_congig.txt
+ 1109  cd ..
+ 1110  cd database_service
+ 1111  touch docker2_congig.txt
+ 1112  cd ..
+ 1113  cd data_service
+ 1114  touch docker3_congig.txt
+ 1115  cd ..
+ 1116  cd datum_service
+ 1117  touch docker4_congig.txt
+ 1118  cd ..
+ 1119  cd inventory_service
+ 1120  touch docker5_congig.txt
+ 1121  cd ..
+ 1122  cd list_service api_endpoint.txt
+ 1123  cd list_service 
+ 1124  touch api_endpoint.txt
+ 1125  cd ..
+ 1126  cd log_service
+ 1127  touch api1_endpoint.txt
+ 1128  cd >>
+ 1129  cd ..
+ 1130  cd order_service
+ 1131  touch api2_endpoint.txt
+ 1132  cd ..
+ 1133  cd server_service
+ 1134  touch api3_endpoint.txt
+ 1135  cd ..
+ 1136  cd sidecar_service
+ 1137  touch api4_endpoint.txt
+ 1138  cd ..
+ 1139  cd user_service
+ 1140  touch api5_endpoint.txt
+ 1141  cd ..
+ 1142  mv "api1_endpoint" log_service > user_service
+ 1143  mv "api1_endpoint" user_service
+ 1144  mv "api1_endpoint.txt" user_service
+ 1145  mv "api1_endpoint.txt" log_service > user_service
+ 1146  cd ..
+ 1147  mv api1_endpoint.txt user_service 
+ 1148  cd miroservices_architecture
+ 1149  cd microservices_architecture
+ 1150  mv api1_endpoint.txt /home/skacas/desktop/microservices_architecture/user_service
+ 1151  mv api_endpoint.txt /home/skacas/desktop/microservices_architecture/user_service
+ 1152  cd APTgatway_service
+ 1153  cd APTgateway_service
+ 1154  mv docker_config.txt /home/skacas/Desktop/microservices_architecture/APT_service
+ 1155  cd ..
+ 1156  cd APT_service
+ 1157  mv docker1_config.txt /home/skacas/Desktop/microservices_architecture/APTgateway_service
+ 1158  mv docker1_congig.txt /home/skacas/Desktop/microservices_architecture/APTgateway_service
+ 1159  cd ..
+ 1160  cd database_service
+ 1161  cd ..
+ 1162  cd user_service
+ 1163  mv api5_endpoint.txt api5_doc.txt
+ 1164  cd
+ 1165  cd Desktop
+ 1166  cd microservice_architecture
+ 1167  cd microservices_architecture
+ 1168  ls
+ 1169  touch config.txt
+ 1170  chmod 007 config.txt
+ 1171  mkdir backup
+ 1172  cd  backup
+ 1173  cp config.txt backup
+ 1174  cd ..
+ 1175  cp config.txt backup
+ 1176  touch config_backup
+ 1177  cp config_backup backup
+ 1178  cd backup
+ 1179  ls
+ 1180  cd ..
+ 1181  cd sidecar_service
+ 1182  rm api4_endpoint.txt
+ 1183  rm -r sidecar_service
+ 1184  cd ..
+ 1185  rm -r sidecar_service
+ 1186  history 20
+ 1187  history microservices_architecture
+ 1188  history\ microservices_architecture
+ 1189  grep-i "microservices"
+ 1190  tail-n "microservices"
+ 1191  ps aux
+ 1192  ls -l config.txt
+ 1193  top
+ 1194  touch one.txt two.txt three.txt four.txt five.txt six.txt seven.txt eight.txt nine.txt ten.txt
+ 1195  grep -h "docker_config.txt" 
+ 1196  cd list_service
+ 1197  nano api_endpoint.txt
+ 1198  cd list_service
+ 1199  grep -h "api" api_endpoint.txt
+ 1200  cd ..
+ 1201  mkdir user1 user2 user3 user4 user5
+ 1202  rm -r user1 user2 user3 user4 user5
+ 1203  cd ..
+ 1204  sort microservices_architecture
+ 1205  cd  microservices_architecture
+ 1206  sort microservices_architecture
+ 1207  cd ...
+ 1208  cd ..
+ 1209  ls -s microservices_architecture
+ 1210  ls -s microservices_architecture|grep -h
+ 1211  du -sh
+ 1212  cd microservices_architecture
+ 1213  ping
+ 1214  ping microservices
+ 1215  cd ..
+ 1216  ping microservices
+ 1217  ping microservices_architecture
+ 1218  cd microservices_architecture
+ 1219  ping microservices_architecture
+ 1220  grep-h "txt" 
+ 1221  cd ..
+ 1222  grep-h "txt" microservices_architecture
+ 1223  grep-n "txt" microservices_architecture
+ 1224  ls -l "txt"
+ 1225  cd microservices_architecture
+ 1226  ls -l "txt"
+ 1227  ls -l "one.txt"
+ 1228  cd ..
+ 1229  touch user_service
+ 1230  cp microservices_architecture >user_service
+ 1231  cp --
+ 1232  cp --help
+ 1233  cp -a microservices_architecture user_services
+ 1234  rm user_services
+ 1235  cp -a microservices_architecture user_services 
+ 1236  history
+ 1237  history > user 
+ 1238  history 315
+ 1239  history > user 
+ 1240  history 315 > user 
